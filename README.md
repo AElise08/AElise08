@@ -46,6 +46,4 @@ const mel = {
 
 ---
 
-*Open to roles where a versatile builder can move fast across product, engineering and AI.*
-
 <!-- profile -->
