@@ -42,7 +42,6 @@ const mel = {
 
 ## 📫 Get in touch
 
-- 📍 Based in Belém-PA, Brazil
 - GitHub: [@AElise08](https://github.com/AElise08)
 
 ---
