@@ -25,13 +25,13 @@ const mel = {
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**personalized-podcast**](https://github.com/AElise08/personalized-podcast) | Turn any content into a personalized AI podcast — you control script, voices and hosts. | Python · LLM/TTS |
 | [**runway**](https://github.com/AElise08/runway) | AI fashion editor that analyzes outfit photos and returns editorial styling feedback. | React · TS · Gemini · Mistral |
 | [**carouselgen-open**](https://github.com/AElise08/carouselgen-open) | Open-source tool that turns a script into editorial-style social carousels, export-ready. | React · TS · Google GenAI |
-| [**demosthenes**](https://github.com/AElise08/demosthenes) | AI oratory coach — structured feedback on speeches and recordings, any provider. | TS · multi-provider LLM |
 | [**nort-finance**](https://github.com/AElise08/nort-finance) | WhatsApp personal-finance bot: log money in plain language, get AI budget advice. | Node.js · Supabase · Mistral · Groq |
+| [**demosthenes**](https://github.com/AElise08/demosthenes) | AI oratory coach — structured feedback on speeches and recordings, any provider. | TS · multi-provider LLM |
+| [**water-tracker-challenge**](https://github.com/AElise08/water-tracker-challenge) | React Native animation challenge — fluid gesture-driven water-fill UI at 60fps. | React Native · Expo · Reanimated |
 
-> I also build full-stack products in private repos (an AI clinical decision-support tool and a personal finance + life-organization workspace, among others) — happy to walk through them on request.
+> Beyond these, I have more full-stack and AI work in progress — happy to walk through it on request.
 
 ## 💡 How I work
 
@@ -42,6 +42,7 @@ const mel = {
 
 ## 📫 Get in touch
 
+- 📍 Based in Belém-PA, Brazil
 - GitHub: [@AElise08](https://github.com/AElise08)
 
 ---
