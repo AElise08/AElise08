@@ -28,10 +28,8 @@ const mel = {
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**colmeia**](https://github.com/AElise08/colmeia) ⭐ | A visual workspace where people and AI agents work together. Local-first, public beta, with invited Hub collaboration. | Swift |
-| [**tokentown**](https://github.com/AElise08/tokentown) · [live](https://tokentown-gamma.vercel.app) | NORTOWN: a pixel city in the corner of your screen that grows with every token your Claude Code agents burn. | JavaScript |
+| [**door**](https://github.com/AElise08/door) | Self-hosted Claude Code teams with a priorities board, live HUD, terminal, and a persistent Boss. | Python |
 | [**saved**](https://github.com/AElise08/saved-hermes-agent) | Text it anything. It keeps it in your vault (on your machine or in Notion) and texts you three ideas a week worth exploring. | Python · Hermes agent |
-| [**parley**](https://github.com/AElise08/parley-hermes-agent) | Language tutor over iMessage/SMS: text or voice memo, daily practice, corrections, spaced review. | Python · Hermes agent |
-| [**text-me**](https://github.com/AElise08/text-me-hermes-agent) | Eisenhower partner over chat: dump your list, get one next step. | Python · Hermes agent |
 
 **Native & terminal tools**
 
