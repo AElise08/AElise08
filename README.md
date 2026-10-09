@@ -16,22 +16,40 @@ const mel = {
 
 ## 🛠️ Tech I work with
 
-**Languages:** TypeScript · JavaScript · Python · SQL
+**Languages:** TypeScript · JavaScript · Python · Swift · Go · SQL
 **Frontend:** React · Next.js · Vite · Tailwind CSS · shadcn/ui · React Native (Expo)
 **Backend & data:** Node.js · Supabase (PostgreSQL, Auth, RLS, Edge Functions) · Firebase
 **AI:** LLM application design · agentic flows & tool-calling · RAG · Genkit · Google Gemini · Mistral · Groq · Zod-validated AI I/O
 
 ## 🚀 Featured projects
 
+**Agents & AI workspaces**
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**runway**](https://github.com/AElise08/runway) | AI fashion editor that analyzes outfit photos and returns editorial styling feedback. | React · TS · Gemini · Mistral |
-| [**carouselgen-open**](https://github.com/AElise08/carouselgen-open) | Open-source tool that turns a script into editorial-style social carousels, export-ready. | React · TS · Google GenAI |
-| [**nort-finance**](https://github.com/AElise08/nort-finance) | WhatsApp personal-finance bot: log money in plain language, get AI budget advice. | Node.js · Supabase · Mistral · Groq |
-| [**demosthenes**](https://github.com/AElise08/demosthenes) | AI oratory coach — structured feedback on speeches and recordings, any provider. | TS · multi-provider LLM |
-| [**water-tracker-challenge**](https://github.com/AElise08/water-tracker-challenge) | React Native animation challenge — fluid gesture-driven water-fill UI at 60fps. | React Native · Expo · Reanimated |
+| [**colmeia**](https://github.com/AElise08/colmeia) ⭐ | A visual workspace where people and AI agents work together. Local-first, public beta, with invited Hub collaboration. | Swift |
+| [**tokentown**](https://github.com/AElise08/tokentown) · [live](https://tokentown-gamma.vercel.app) | NORTOWN: a pixel city in the corner of your screen that grows with every token your Claude Code agents burn. | JavaScript |
+| [**saved**](https://github.com/AElise08/saved-hermes-agent) | Text it anything. It keeps it in your vault (on your machine or in Notion) and texts you three ideas a week worth exploring. | Python · Hermes agent |
+| [**parley**](https://github.com/AElise08/parley-hermes-agent) | Language tutor over iMessage/SMS: text or voice memo, daily practice, corrections, spaced review. | Python · Hermes agent |
+| [**text-me**](https://github.com/AElise08/text-me-hermes-agent) | Eisenhower partner over chat: dump your list, get one next step. | Python · Hermes agent |
 
-> Beyond these, I have more full-stack and AI work in progress — happy to walk through it on request.
+**Native & terminal tools**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**teleprompter**](https://github.com/AElise08/teleprompter) | Ghost Teleprompter: a compact native macOS strip near the camera that auto-scrolls your copied script. | Swift |
+| [**zap-terminal**](https://github.com/AElise08/zap-terminal) | WhaTTY: a native WhatsApp client for the macOS Terminal. No Electron, no Chrome, no Node. | Go |
+| [**plow-plugins**](https://github.com/AElise08/plow-plugins) | Latch plugins that let an agent work with Contacts, Reminders, Notes and Calendar on a Mac, with documented sandbox findings. | JavaScript |
+
+**AI products**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**pharma**](https://github.com/AElise08/pharma) · [live](https://pharma-sigma-eight.vercel.app) | PharmaWise: clinical decision support that turns a drug and patient profile into an evidence-based safety report, grounded in PubMed and OpenFDA. | Next.js · Genkit |
+| [**ideia2**](https://github.com/AElise08/ideia2) · [live](https://ideia2.vercel.app) | Demóstenes: AI oratory coach with 5-part speech structure, diction drills and a progress track. No login, no payment. | TypeScript |
+| [**nort-finance**](https://github.com/AElise08/nort-finance) | Open-source WhatsApp finance bot: log money in plain language, get AI budget advice. | Node.js · Supabase · Mistral · Groq |
+| [**runway**](https://github.com/AElise08/runway) · [live](https://runway1404.vercel.app) | AI fashion editor that analyzes outfit photos and returns editorial styling feedback. | React · TS · Gemini |
+| [**carouselgen-open**](https://github.com/AElise08/carouselgen-open) | Open-source tool that turns a script into export-ready editorial carousels. | React · TS |
 
 ## 💡 How I work
 
