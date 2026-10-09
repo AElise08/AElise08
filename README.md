@@ -36,18 +36,15 @@ const mel = {
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**teleprompter**](https://github.com/AElise08/teleprompter) | Ghost Teleprompter: a compact native macOS strip near the camera that auto-scrolls your copied script. | Swift |
-| [**zap-terminal**](https://github.com/AElise08/zap-terminal) | WhaTTY: a native WhatsApp client for the macOS Terminal. No Electron, no Chrome, no Node. | Go |
+| [**zap-terminal**](https://github.com/AElise08/zap-terminal) | WhaTTY: a native WhatsApp client for the macOS Terminal. No Electron, no Chrome, no Node. **Work in progress, not finished.** | Go |
 | [**plow-plugins**](https://github.com/AElise08/plow-plugins) | Latch plugins that let an agent work with Contacts, Reminders, Notes and Calendar on a Mac, with documented sandbox findings. | JavaScript |
 
 **AI products**
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**pharma**](https://github.com/AElise08/pharma) · [live](https://pharma-sigma-eight.vercel.app) | PharmaWise: clinical decision support that turns a drug and patient profile into an evidence-based safety report, grounded in PubMed and OpenFDA. | Next.js · Genkit |
-| [**ideia2**](https://github.com/AElise08/ideia2) · [live](https://ideia2.vercel.app) | Demóstenes: AI oratory coach with 5-part speech structure, diction drills and a progress track. No login, no payment. | TypeScript |
 | [**nort-finance**](https://github.com/AElise08/nort-finance) | Open-source WhatsApp finance bot: log money in plain language, get AI budget advice. | Node.js · Supabase · Mistral · Groq |
 | [**runway**](https://github.com/AElise08/runway) · [live](https://runway1404.vercel.app) | AI fashion editor that analyzes outfit photos and returns editorial styling feedback. | React · TS · Gemini |
-| [**carouselgen-open**](https://github.com/AElise08/carouselgen-open) | Open-source tool that turns a script into export-ready editorial carousels. | React · TS |
 
 ## 💡 How I work
 
