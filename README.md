@@ -19,7 +19,7 @@ const mel = {
 **Languages:** TypeScript · JavaScript · Python · Swift · Go · SQL
 **Frontend:** React · Next.js · Vite · Tailwind CSS · shadcn/ui · React Native (Expo)
 **Backend & data:** Node.js · Supabase (PostgreSQL, Auth, RLS, Edge Functions) · Firebase
-**AI:** LLM application design · agentic flows & tool-calling · RAG · Genkit · Google Gemini · Mistral · Groq · Zod-validated AI I/O
+**AI:** LLM application design · agentic flows & tool-calling · RAG · Genkit · Claude Code · Codex · · GROK · Google Gemini · Mistral · Groq · Zod-validated AI I/O
 
 ## 🚀 Featured projects
 
